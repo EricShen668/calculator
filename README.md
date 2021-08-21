@@ -2,6 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
+[![Build Status](https://dev.azure.com/20859064/Caculator%20-%2020210821/_apis/build/status/EricShen668.calculator?branchName=master)](https://dev.azure.com/20859064/Caculator%20-%2020210821/_build/latest?definitionId=21&branchName=master)
 
 [![Build Status](https://dev.azure.com/AzureDevOps20210530/Caculator/_apis/build/status/EricShen668.calculator?branchName=master)](https://dev.azure.com/AzureDevOps20210530/Caculator/_build/latest?definitionId=7&branchName=master)
 
